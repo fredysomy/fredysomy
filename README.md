@@ -10,6 +10,6 @@
  💬 Ask me about Python web automation,crawling
  
   [![](https://img.shields.io/badge/.-LinkedIn-Blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/fredysomy/)
-  [![](https://img.shields.io/badge/.-Gmail-Blue?style=for-the-badge&logo=gmail)](mailto:fredysomy@gmail.com)
+  [![](https://img.shields.io/badge/.-Gmail-Red?style=for-the-badge&logo=gmail)](mailto:fredysomy@gmail.com)
  
 ![Fredy's github stats](https://github-readme-stats.vercel.app/api?username=fredysomy&show_icons=true&hide=["issues"])
