@@ -11,3 +11,4 @@
  
   [![](https://img.shields.io/badge/.-LinkedIn-Blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/fredysomy/)
  
+![Fredy's github stats](https://github-readme-stats.vercel.app/api?username=fredysomy&show_icons=true&hide=["issues"])
