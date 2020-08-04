@@ -1,5 +1,5 @@
 # Hi there 👋
-## My self <span style="background-color:red;">Fredy Somy</span>, a 17 year old coder with a great intrest in learning new languages and technologies.........
+## <br>My self <span style="background-color:red;">Fredy Somy</span>, a 17 year old coder with a great intrest in learning new languages and technologies.........</br>
 
 
 
