@@ -3,9 +3,8 @@
 
 
 
-
- ### 🔭 I’m currently working on a webiste which uses NASA's API<a href="https://github.com/fredysomy/NasaAPI">  Click Here</a> <br>
- ### 🌱 I’m currently learning Python,Javascript and Webdevelopment<br>
+ ### 😴 In relax mode,no projects undergoing.😀<br>
+ ### 🌱 I’m currently learning MEN Stack<br>
  ### 👬 Like to collaborate on website projects using Rest API's in Python and Javascript<br>
  ### 💬 Ask me about Python web automation,crawling
  
