@@ -1,7 +1,5 @@
 # Hi there 👋
-## <br>My self <span style="background-color:red;">Fredy Somy</span>, a 17 year old coder with a great intrest in learning new languages and technologies.........</br>
-
-
+## _<br>My self <span style="background-color:red;">Fredy Somy</span>, a 17 year old coder with a great intrest in learning new languages and technologies.........</br>_
 
  #### 😎 In project mode,Making a MEN stack apllication <a href="https://github.com/fredysomy/MEN-stack-login-register"> Go There</a>.😀<br>
  #### 👬 Would love to have collab in 👆 project,Contact me.
