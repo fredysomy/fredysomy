@@ -6,6 +6,12 @@
  #### 🌱 I’m currently learning MEN Stack<br>
  #### 👬 Like to collaborate on website projects using Rest API's in Python and Javascript<br>
  #### 💬 Ask me about Python web automation,crawling
+* 👨🏻‍💻Some of my favorite projects.. <br>
+   * URLshortner
+   * NASA api
+   * Youtube song downloader
+   * Debuggcovid
+      
  
   [![](https://img.shields.io/badge/.-LinkedIn-Blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/fredysomy/)
   [![](https://img.shields.io/badge/.-Gmail-Red?style=for-the-badge&logo=gmail)](mailto:fredysomy@gmail.com)
