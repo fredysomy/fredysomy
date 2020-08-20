@@ -5,7 +5,7 @@
  #### 👬 Would love to have collab in 👆 project,Contact me.
  #### 🌱 I’m currently learning MEN Stack<br>
  #### 👬 Like to collaborate on website projects using Rest API's in Python and Javascript<br>
- #### 💬 Ask me about Python web automation,crawling
+ #### 💬 Ask me about Python web automation,crawling,Node,Express,Mongo..
 * 👨🏻‍💻Some of my favorite projects.. <br>
    * URLshortner
    * NASA api
