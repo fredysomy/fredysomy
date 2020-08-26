@@ -5,22 +5,22 @@
  #### 🌱 I’m currently learning MEN Stack<br>
  #### 👬 Like to collaborate on website projects using Rest API's in Python and Javascript<br>
  #### 💬 Ask me about Python web automation,crawling,Node,Express,Mongo..
-* 👨🏻‍💻Some of my projects <br>
-   * Frontend Projects
-     * debuggcovid 
-     * NasaApi
-     * silly joker bot
-     * Javascript monster game
-   * Full stack projects
-     * Register-verify-login-logout
-     * URL Shortener
-   * REST API's
-     * Github-API
-   * Python
-     * Youtube sond downloader
-     * Gmail Sender
-     * Personal Assistant
-     * Covid Data.
+👨🏻‍💻Some of my projects <br>
+  * Frontend Projects
+    * debuggcovid 
+    * NasaApi
+    * silly joker bot
+    * Javascript monster game
+  * Full stack projects
+    * Register-verify-login-logout
+    * URL Shortener
+  * REST API's
+    * Github-API
+  * Python
+    * Youtube sond downloader
+    * Gmail Sender
+    * Personal Assistant
+    * Covid Data.
       
  
   [![](https://img.shields.io/badge/.-LinkedIn-Blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/fredysomy/)
