@@ -7,21 +7,21 @@
  #### 💬 Ask me about Python web automation,crawling,Node,Express,Mongo..
 👨🏻‍💻Some of my projects <br>
   * Frontend Projects
-    * debuggcovid 
-    * NasaApi
-    * silly joker bot
-    * Javascript monster game
+    * <a href="https://github.com/fredysomy/DebuggCovid">debuggcovid</a> 
+    * <a href="https://github.com/fredysomy/NasaAPI">NasaApi</a>
+    * <a href="https://github.com/fredysomy/Chatbot">silly joker bot</a>
+    * <a href="https://github.com/fredysomy/Javascript_monster_game">Javascript monster game</a>
   * Full stack projects
-    * Register-verify-login-logout
-    * URL Shortener
+    * <a href="https://github.com/fredysomy/Regsiter-VerifyEmail-login-logout">Register-verify-login-logout</a>
+    * <a href="https://github.com/fredysomy/URLshortner">URL Shortener</a>
   * REST API's
-    * Github-API
-    * Google Search API
+    * <a href="https://github.com/fredysomy/Github-API">Github-API</a>
+    * <a href="https://github.com/fredysomy/google-search-api">Google Search API</a>
   * Python
-    * Youtube sond downloader
-    * Gmail Sender
-    * Personal Assistant
-    * Covid Data.
+    * <a href="https://github.com/fredysomy/YTD-YoutubeSongDownloader">Youtube sond downloader</a>
+    * <a href="https://github.com/fredysomy/GmailSender">Gmail Sender</a>
+    * <a href="https://github.com/fredysomy/Personal-Assistant">Personal Assistant</a>
+    * <a href="https://github.com/fredysomy/Covid19data">Covid Data.</a>
       
  
   [![](https://img.shields.io/badge/.-LinkedIn-Blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/fredysomy/)
