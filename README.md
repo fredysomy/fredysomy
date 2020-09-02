@@ -22,6 +22,8 @@
     * <a href="https://github.com/fredysomy/GmailSender">Gmail Sender</a>
     * <a href="https://github.com/fredysomy/Personal-Assistant">Personal Assistant</a>
     * <a href="https://github.com/fredysomy/Covid19data">Covid Data.</a>
+  * Web Scrape(Python)
+    * college ranking india
       
  
   [![](https://img.shields.io/badge/.-LinkedIn-Blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/fredysomy/)
