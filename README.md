@@ -3,8 +3,8 @@
 ![](https://komarev.com/ghpvc/?username=fredysomy&color=010040&style=flat-square)
  [![](https://img.shields.io/badge/.-LinkedIn-Blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/fredysomy/)
  [![](https://img.shields.io/badge/.-Gmail-Red?style=for-the-badge&logo=gmail)](mailto:fredysomy@gmail.com)
- #### 😎 In project mode,Making a MEN stack apllication <a href="https://github.com/fredysomy/MEN-stack-login-register"> Go There</a>.😀<br>
- #### 🌱 I’m currently learning MEN Stack<br>
+ #### 😎 In project mode,Making a MERN stack apllication <a href="https://github.com/fredysomy/MEN-stack-login-register"> Go There</a>.😀<br>
+ #### 🌱 I’m currently learning MERN Stack<br>
  #### 👬 Like to collaborate on website projects using Rest API's in Python and Javascript<br>
  #### 💬 Ask me about Python web automation,crawling,Node,Express,Mongo..
 👨🏻‍💻Some of my projects <br>
