@@ -13,6 +13,7 @@
     * <a href="https://github.com/fredysomy/NasaAPI">NasaApi</a>
     * <a href="https://github.com/fredysomy/Chatbot">silly joker bot</a>
     * <a href="https://github.com/fredysomy/Javascript_monster_game">Javascript monster game</a>
+    * <a href="https://github.com/fredysomy/Todo-App">Todo-App (React JS)</a>
   * Full stack projects
     * <a href="https://github.com/fredysomy/Regsiter-VerifyEmail-login-logout">Register-verify-login-logout</a>
     * <a href="https://github.com/fredysomy/URLshortner">URL Shortener</a>
