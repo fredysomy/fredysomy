@@ -26,7 +26,7 @@
     * <a href="https://github.com/fredysomy/Personal-Assistant">Personal Assistant</a>
     * <a href="https://github.com/fredysomy/Covid19data">Covid Data.</a>
   * Web Scrape(Python)
-    * college ranking india
+    * <a href="https://github.com/fredysomy/web-scrape-data">Scrape data related to college</a>
       
  
  
