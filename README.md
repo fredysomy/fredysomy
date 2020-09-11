@@ -9,9 +9,9 @@
  #### 💬 Ask me about Python web automation,crawling,Node,Express,Mongo..
 👨🏻‍💻Some of my projects <br>
   * Frontend Projects
-    * <a href="https://github.com/fredysomy/DebuggCovid">debuggcovid</a> 
+    * <a href="https://github.com/fredysomy/DebuggCovid">Debuggcovid</a> 
     * <a href="https://github.com/fredysomy/NasaAPI">NasaApi</a>
-    * <a href="https://github.com/fredysomy/Chatbot">silly joker bot</a>
+    * <a href="https://github.com/fredysomy/Chatbot">Silly joker bot</a>
     * <a href="https://github.com/fredysomy/Javascript_monster_game">Javascript monster game</a>
     * <a href="https://github.com/fredysomy/Todo-App">Todo-App (React JS)</a>
   * Full stack projects
