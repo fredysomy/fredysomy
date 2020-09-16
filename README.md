@@ -17,6 +17,7 @@
   * Full stack projects
     * <a href="https://github.com/fredysomy/Regsiter-VerifyEmail-login-logout">Register-verify-login-logout</a>
     * <a href="https://github.com/fredysomy/URLshortner">URL Shortener</a>
+    * Blogging Application
   * REST API's
     * <a href="https://github.com/fredysomy/Github-API">Github-API</a>
     * <a href="https://github.com/fredysomy/google-search-api">Google Search API</a>
