@@ -26,6 +26,7 @@
     * <a href="https://github.com/fredysomy/GmailSender">Gmail Sender</a>
     * <a href="https://github.com/fredysomy/Personal-Assistant">Personal Assistant</a>
     * <a href="https://github.com/fredysomy/Covid19data">Covid Data.</a>
+    * Health App.
   * Web Scrape(Python)
     * <a href="https://github.com/fredysomy/web-scrape-data">Scrape data related to college</a>
       
