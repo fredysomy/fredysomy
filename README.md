@@ -1,5 +1,5 @@
 # <h1 align=center>Hi there 👋 </h1>
-## <h2 align=center > _<br>My self <span style="background-color:red;">Fredy Somy</span>, a 17 year old coder with a great intrest in learning new languages and technologies.........</br>_ </h2>
+### <h3 align=center> My self Fredy Somy, a 17 year old coder with a great intrest in learning new languages and technologies. </h2>
 ![](https://komarev.com/ghpvc/?username=fredysomy&color=010040&style=flat-square)
 [![](https://img.shields.io/badge/.-LinkedIn-Blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/fredysomy/)
 [![](https://img.shields.io/badge/.-Gmail-Red?style=for-the-badge&logo=gmail)](mailto:fredysomy@gmail.com)
