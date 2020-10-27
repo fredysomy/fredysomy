@@ -1,7 +1,6 @@
 # <h1 align=center>Hi there 👋 </h1>
 ### <h3 align=center> My self Fredy Somy, a 17 year old coder with a great intrest in learning new languages and technologies.Intrested in Full stack web development and cloud computing. </h2>
 ![](https://komarev.com/ghpvc/?username=fredysomy&color=010040&style=flat-square)
-
 ![](https://img.shields.io/github/followers/fredysomy?style=flat-square)
 ![](https://img.shields.io/github/stars/fredysomy?style=flat-square)
  #### 😎 In project mode,Making a MERN stack apllication <a href="https://github.com/fredysomy/MEN-stack-login-register"> Go There</a>.😀<br>
