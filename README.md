@@ -30,8 +30,8 @@
   * Web Scrape(Python)
     * <a href="https://github.com/fredysomy/web-scrape-data">Scrape data related to college</a>
       
- 
- 
+
+ [![trophy](https://github-profile-trophy.vercel.app/?username=fredysomy)](https://github.com/ryo-ma/github-profile-trophy)
  
 
 ### Languages and Tools: 
