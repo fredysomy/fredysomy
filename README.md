@@ -34,13 +34,25 @@
 
 ### Languages and Tools: 
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<code><img height="20" src="https://res-4.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco/rxvvemfp4ohbn07bqaah"></code>
+<p align="center">
+    <img src="https://devicon.dev/devicon.git/icons/linux/linux-original.svg" width="25px" height="25px"/>
+    <img src="https://devicon.dev/devicon.git/icons/html5/html5-original.svg" width="25px" height="25px"/>
+    <img src="https://devicon.dev/devicon.git/icons/css3/css3-original.svg" width="25px" height="25px"/>
+    <img src="https://devicon.dev/devicon.git/icons/sass/sass-original.svg" width="25px" height="25px"/>
+    <img src="https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg" width="25px" height="25px"/>
+    <img src="https://devicon.dev/devicon.git/icons/nodejs/nodejs-original.svg" width="25px" height="25px"/>
+    <img src="https://devicon.dev/devicon.git/icons/bootstrap/bootstrap-plain.svg" width="25px" height="25px"/>
+    <img src="https://devicon.dev/devicon.git/icons/typescript/typescript-original.svg" width="25px" height="25px"/>
+    <img src="https://devicon.dev/devicon.git/icons/react/react-original.svg" width="25px" height="25px"/>
+    <img src="https://devicon.dev/devicon.git/icons/electron/electron-original.svg" width="25px" height="25px"/>
+    <img src="https://devicon.dev/devicon.git/icons/python/python-original.svg" width="25px" height="25px"/>
+    <img src="https://devicon.dev/devicon.git/icons/rails/rails-plain-wordmark.svg" width="25px" height="25px"/>
+    <img src="https://devicon.dev/devicon.git/icons/java/java-original.svg" width="25px" height="25px"/>
+    <img src="https://devicon.dev/devicon.git/icons/heroku/heroku-original.svg" width="25px" height="25px"/>
+    <img src="https://devicon.dev/devicon.git/icons/mongodb/mongodb-original.svg" width="25px" height="25px"/>
+    <img src="https://devicon.dev/devicon.git/icons/postgresql/postgresql-original.svg" width="25px" height="25px"/>
+    <img src="https://devicon.dev/devicon.git/icons/github/github-original.svg" width="25px" height="25px"/>
+  </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fredysomy&layout=compact)](https://github.com/fredysomy)
 ![Fredy's github stats](https://github-readme-stats.vercel.app/api?username=fredysomy&show_icons=true&hide=["issues"])
