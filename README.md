@@ -3,10 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=fredysomy&color=010040&style=flat-square)
 ![](https://img.shields.io/github/followers/fredysomy?style=flat-square)
 ![](https://img.shields.io/github/stars/fredysomy?style=flat-square)
- #### 😎 In project mode,Making a MERN stack apllication <a href="https://github.com/fredysomy/MEN-stack-login-register"> Go There</a>.😀<br>
- #### 🌱 I’m currently learning MERN Stack<br>
- #### 👬 Like to collaborate on website projects using Rest API's in Python and Javascript<br>
- #### 💬 Ask me about Python web automation,crawling,Node,Express,Mongo..
+
 👨🏻‍💻Some of my projects <br>
   * Frontend Projects
     * <a href="https://github.com/fredysomy/DebuggCovid">Debuggcovid</a> 
@@ -26,10 +23,11 @@
     * <a href="https://github.com/fredysomy/GmailSender">Gmail Sender</a>
     * <a href="https://github.com/fredysomy/Personal-Assistant">Personal Assistant</a>
     * <a href="https://github.com/fredysomy/Covid19data">Covid Data.</a>
-    * Health App.
   * Web Scrape(Python)
     * <a href="https://github.com/fredysomy/web-scrape-data">Scrape data related to college</a>
-      
+  * Desktop Apps
+    * Health App (Python)
+    * MarkdownIt (Javascript)
 
  [![trophy](https://github-profile-trophy.vercel.app/?username=fredysomy)](https://github.com/ryo-ma/github-profile-trophy)
  
