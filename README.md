@@ -46,7 +46,7 @@
     <img src="https://devicon.dev/devicon.git/icons/react/react-original.svg" width="25px" height="25px"/>
     <img src="https://devicon.dev/devicon.git/icons/electron/electron-original.svg" width="25px" height="25px"/>
     <img src="https://devicon.dev/devicon.git/icons/python/python-original.svg" width="25px" height="25px"/>
-    <img src="https://devicon.dev/devicon.git/icons/rails/rails-plain-wordmark.svg" width="25px" height="25px"/>
+    <img src="https://devicon.dev/devicon.git/icons/rails/go-orginal.svg" width="25px" height="25px"/>
     <img src="https://devicon.dev/devicon.git/icons/java/java-original.svg" width="25px" height="25px"/>
     <img src="https://devicon.dev/devicon.git/icons/heroku/heroku-original.svg" width="25px" height="25px"/>
     <img src="https://devicon.dev/devicon.git/icons/mongodb/mongodb-original.svg" width="25px" height="25px"/>
