@@ -54,5 +54,5 @@
     <img src="https://devicon.dev/devicon.git/icons/github/github-original.svg" width="25px" height="25px"/>
   </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fredysomy&layout=compact&langs_count=6)](https://github.com/fredysomy)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fredysomy&layout=compact&langs_count=8)](https://github.com/fredysomy)
 ![Fredy's github stats](https://github-readme-stats.vercel.app/api?username=fredysomy&show_icons=true&hide=["issues"])
