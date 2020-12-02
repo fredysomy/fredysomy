@@ -4,30 +4,7 @@
 ![](https://img.shields.io/github/followers/fredysomy?style=flat-square)
 ![](https://img.shields.io/github/stars/fredysomy?style=flat-square)
 
-👨🏻‍💻Some of my projects <br>
-  * Frontend Projects
-    * <a href="https://github.com/fredysomy/DebuggCovid">Debuggcovid</a> 
-    * <a href="https://github.com/fredysomy/NasaAPI">NasaApi</a>
-    * <a href="https://github.com/fredysomy/Chatbot">Silly joker bot</a>
-    * <a href="https://github.com/fredysomy/Javascript_monster_game">Javascript monster game</a>
-    * <a href="https://github.com/fredysomy/Todo-App">Todo-App (React JS)</a>
-  * Full stack projects
-    * <a href="https://github.com/fredysomy/Regsiter-VerifyEmail-login-logout">Register-verify-login-logout</a>
-    * <a href="https://github.com/fredysomy/URLshortner">URL Shortener</a>
-    * Blogging Application
-  * REST API's
-    * <a href="https://github.com/fredysomy/Github-API">Github-API</a>
-    * <a href="https://github.com/fredysomy/google-search-api">Google Search API</a>
-  * Python
-    * <a href="https://github.com/fredysomy/YTD-YoutubeSongDownloader">Youtube sond downloader</a>
-    * <a href="https://github.com/fredysomy/GmailSender">Gmail Sender</a>
-    * <a href="https://github.com/fredysomy/Personal-Assistant">Personal Assistant</a>
-    * <a href="https://github.com/fredysomy/Covid19data">Covid Data.</a>
-  * Web Scrape(Python)
-    * <a href="https://github.com/fredysomy/web-scrape-data">Scrape data related to college</a>
-  * Desktop Apps
-    * Health App (Python)
-    * MarkdownIt (Javascript)
+
 
  [![trophy](https://github-profile-trophy.vercel.app/?username=fredysomy)](https://github.com/ryo-ma/github-profile-trophy)
  
