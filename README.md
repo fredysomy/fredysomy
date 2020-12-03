@@ -2,6 +2,7 @@
 ## Myself Fredy Somy.
 
 <a href="https://dev.to/fredysomy"><img height="32px" width="32px" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg"></a>
+<a href="https://linkedin.com/in/fredysomy"><img height="32px" width="32px" src="https://cdns.iconmonstr.com/wp-content/assets/preview/2012/240/iconmonstr-linkedin-3.png"></a>
 
 #### I am a Full stack developer , Uses Python and Javascript.<br>
 
