@@ -3,11 +3,11 @@
 
 <a href="https://dev.to/fredysomy"><img height="32px" width="32px" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg"></a>
 
-I am a Full stack developer , Uses Python and Javascript.<br>
+* I am a Full stack developer , Uses Python and Javascript.<br>
 
-Javascript is ❤️.<br>
+* Javascript is ❤️.<br>
 
-Know Flask,Django,Node,Express,React,Electron.<br>
+* Know Flask,Django,Node,Express,React,Electron.<br>
 
 Love to make :
  * Web Apps.
