@@ -1,5 +1,8 @@
 # <h1>Hi there 👋 </h1>
 ## Myself Fredy Somy.
+
+[![Fredy Somy's DEV Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/fredysomy)
+
 I am a Full stack developer , Uses Python and Javascript.<br>
 
 Javascript is ❤️.<br>
