@@ -6,7 +6,7 @@
 
 
 
- [![trophy](https://github-profile-trophy.vercel.app/?username=fredysomy&margin-w=15&row=3)](https://github.com/ryo-ma/github-profile-trophy)
+ [![trophy](https://github-profile-trophy.vercel.app/?username=fredysomy&margin-w=15&column=4&row=3)](https://github.com/ryo-ma/github-profile-trophy)
  
 
 ### Languages and Tools: 
