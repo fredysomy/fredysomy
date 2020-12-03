@@ -1,7 +1,7 @@
 # <h1>Hi there 👋 </h1>
 ## Myself Fredy Somy.
 
-[![Fredy Somy's DEV Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/fredysomy)
+<a href="https://dev.to/fredysomy"><img height="16px" width="16px" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg"></a>
 
 I am a Full stack developer , Uses Python and Javascript.<br>
 
