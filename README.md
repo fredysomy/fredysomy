@@ -1,8 +1,11 @@
 # <h1>Hi there 👋 </h1>
 ## Myself Fredy Somy.
 
-<a href="https://dev.to/fredysomy"><img height="32px" width="32px" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg"></a>
-<a href="https://linkedin.com/in/fredysomy"><img height="32px" width="32px" src="https://cdns.iconmonstr.com/wp-content/assets/preview/2012/240/iconmonstr-linkedin-3.png"></a>
+<a href="https://dev.to/fredysomy"><img height="32px" width="32px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgajA05XF6eHfhMRKT9EunERUm82WuKMe8MQ&usqp=CAU"></a>
+<a href="https://linkedin.com/in/fredysomy"><img height="32px" width="32px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLmPdKRkCtqXB94svbTykR1XudgqXLhlolMQ&usqp=CAU"></a>
+<a href="https://twitter.com/FredySomy"><img height="32px" width="32px" src="https://lh4.googleusercontent.com/proxy/ebojCgcfzdW5omTBOnKFhiMiNAkoMfmdiDnAlUTxvaUb147_LzQHH0L3A1Ni0f6qEiIm64ApD9oHoDVECNERRVSJX_oa2Fok4EZ-ScKZZITkcUQ1nKYMaA=w384-h384"></a>
+
+
 
 #### I am a Full stack developer , Uses Python and Javascript.<br>
 
