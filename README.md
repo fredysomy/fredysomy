@@ -7,13 +7,13 @@
 
 
 
-#### I am a Full stack developer , Uses Python and Javascript.<br>
+I am a Full stack developer , Uses Python and Javascript.<br>
 
-#### Javascript is ❤️.<br>
+Javascript is ❤️.<br>
 
-#### Know Flask,Django,Node,Express,React,Electron.<br>
+Know Flask,Django,Node,Express,React,Electron.<br>
 
-#### Love to make :
+Love to make :
  * Web Apps.
  * Desktop Apps.
  * CLI's
