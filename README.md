@@ -1,6 +1,11 @@
 # <h1>Hi there 🙋🏻‍♂️ </h1>
 ## Myself Fredy Somy.
 
+
+![GitHub followers](https://img.shields.io/github/followers/fredysomy?style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/FredySomy?style=social)
+
+
 <a href="https://dev.to/fredysomy"><img height="32px" width="32px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgajA05XF6eHfhMRKT9EunERUm82WuKMe8MQ&usqp=CAU"></a>
 <a href="https://linkedin.com/in/fredysomy"><img height="32px" width="32px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLmPdKRkCtqXB94svbTykR1XudgqXLhlolMQ&usqp=CAU"></a>
 <a href="https://twitter.com/FredySomy"><img height="32px" width="32px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoaGWjOH7kQ2Vpv34G4VtDKSWVwkuqiPxV6Q&usqp=CAU"></a>
