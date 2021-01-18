@@ -53,7 +53,7 @@ Love to make :
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="25px" height="25px"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" width="25px" height="25px"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="25px" height="25px"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/go-orginal.svg" width="25px" height="25px"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-orginal.svg" width="25px" height="25px"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="25px" height="25px"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg" width="25px" height="25px"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="25px" height="25px"/>
