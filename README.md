@@ -42,23 +42,23 @@ Love to make :
 ### Languages and Tools: 
 
 <p align="center">
-    <img src="https://devicon.dev/devicon.git/icons/linux/linux-original.svg" width="25px" height="25px"/>
-    <img src="https://devicon.dev/devicon.git/icons/html5/html5-original.svg" width="25px" height="25px"/>
-    <img src="https://devicon.dev/devicon.git/icons/css3/css3-original.svg" width="25px" height="25px"/>
-    <img src="https://devicon.dev/devicon.git/icons/sass/sass-original.svg" width="25px" height="25px"/>
-    <img src="https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg" width="25px" height="25px"/>
-    <img src="https://devicon.dev/devicon.git/icons/nodejs/nodejs-original.svg" width="25px" height="25px"/>
-    <img src="https://devicon.dev/devicon.git/icons/bootstrap/bootstrap-plain.svg" width="25px" height="25px"/>
-    <img src="https://devicon.dev/devicon.git/icons/typescript/typescript-original.svg" width="25px" height="25px"/>
-    <img src="https://devicon.dev/devicon.git/icons/react/react-original.svg" width="25px" height="25px"/>
-    <img src="https://devicon.dev/devicon.git/icons/electron/electron-original.svg" width="25px" height="25px"/>
-    <img src="https://devicon.dev/devicon.git/icons/python/python-original.svg" width="25px" height="25px"/>
-    <img src="https://devicon.dev/devicon.git/icons/rails/go-orginal.svg" width="25px" height="25px"/>
-    <img src="https://devicon.dev/devicon.git/icons/java/java-original.svg" width="25px" height="25px"/>
-    <img src="https://devicon.dev/devicon.git/icons/heroku/heroku-original.svg" width="25px" height="25px"/>
-    <img src="https://devicon.dev/devicon.git/icons/mongodb/mongodb-original.svg" width="25px" height="25px"/>
-    <img src="https://devicon.dev/devicon.git/icons/postgresql/postgresql-original.svg" width="25px" height="25px"/>
-    <img src="https://devicon.dev/devicon.git/icons/github/github-original.svg" width="25px" height="25px"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="25px" height="25px"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="25px" height="25px"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="25px" height="25px"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="25px" height="25px"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="25px" height="25px"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="25px" height="25px"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" width="25px" height="25px"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="25px" height="25px"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="25px" height="25px"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" width="25px" height="25px"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="25px" height="25px"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/go-orginal.svg" width="25px" height="25px"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="25px" height="25px"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg" width="25px" height="25px"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="25px" height="25px"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="25px" height="25px"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="25px" height="25px"/>
   </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fredysomy&layout=compact&langs_count=8)](https://github.com/fredysomy)
