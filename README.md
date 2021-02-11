@@ -1,4 +1,4 @@
-# <h1>Hi there 🙋🏻‍♂️ </h1>
+# Hi there 🙋🏻‍♂️
 ## Myself Fredy Somy.
 
 
@@ -17,7 +17,6 @@ I am a Full stack developer , Uses Python and Javascript.<br>
 Javascript is ❤️.<br>
 
 Know Flask,Django,Node,Express,React,Electron.<br>
-
 Love to make :
  * Web Apps.
  * Desktop Apps.
