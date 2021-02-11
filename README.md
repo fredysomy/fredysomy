@@ -24,11 +24,11 @@ Love to make :
  * CLI's
  * Pypi Packages.
 
-* 📄 I write Blogs [here]()
+📄 I write Blogs [here]()
 
-* 👩‍💻 All my Projects [here]()
+👩‍💻 All my Projects [here]()
 
-* 🌐 My Portfolio [Here]()
+🌐 My Portfolio [Here]()
 
 
 
