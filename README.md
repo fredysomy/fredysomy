@@ -23,11 +23,11 @@ Love to make :
  * CLI's
  * Pypi Packages.
 
-📄 I write Blogs [here]()
+📄 I write Blogs [here](https://blog.fredy.rocks/)
 
-👩‍💻 All my Projects [here]()
+👩‍💻 All my Projects [here](https://projects.fredy.rocks/)
 
-🌐 My Portfolio [Here]()
+🌐 My Portfolio [Here](https://fredy.rocks/)
 
 
 
