@@ -12,22 +12,22 @@
 <a href="https://fredysomy.hashnode.dev"><img height="32px" width="32px" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1592752137870/scHk9tTaA.png?auto=compressUQ1nKYMaA=w384-h384"></a>
 
 
-I am a Full stack developer , Uses Python and Javascript.<br>
+* I am a Full stack developer , Uses Python and Javascript.<br>
 
-Javascript is ❤️.<br>
+* Javascript is ❤️.<br>
 
-Know Flask,Django,Node,Express,React,Electron.<br>
-Love to make :
- * Web Apps.
- * Desktop Apps.
- * CLI's
- * Pypi Packages.
+* Know Flask,Django,Node,Express,React,Electron.<br>
+* Love to make :
+  * Web Apps.
+  * Desktop Apps.
+  * CLI's
+  * Pypi Packages.
 
-📄 I write Blogs [here](https://blog.fredy.rocks/)
+* 📄 I write Blogs [here](https://blog.fredy.rocks/)
 
-👩‍💻 All my Projects [here](https://projects.fredy.rocks/)
+* 👩‍💻 All my Projects [here](https://projects.fredy.rocks/)
 
-🌐 My Portfolio [Here](https://fredy.rocks/)
+* 🌐 My Portfolio [Here](https://fredy.rocks/)
 
 
 
