@@ -30,13 +30,6 @@
 * 🌐 My Portfolio [Here](https://fredy.rocks/)
 
 
-
-### Some of my awesome projects.
-
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=fredysomy&repo=pysonDB&theme=shades-of-purple)](https://github.com/fredysomy/pysonDB)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=fredysomy&repo=MarkdownIt&theme=shades-of-purple)](https://github.com/fredysomy/MarkdownIt) 
-
 ![](https://komarev.com/ghpvc/?username=fredysomy&color=010040&style=flat-square)
 ![](https://img.shields.io/github/followers/fredysomy?style=flat-square)
 ![](https://img.shields.io/github/stars/fredysomy?style=flat-square)
