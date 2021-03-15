@@ -29,6 +29,17 @@
 
 * 🌐 My Portfolio [Here](https://fredy.rocks/)
 
+<details>
+<summary>📑 Resume</summary>
+<br>
+This is how you dropdown.
+</details>
+
+<details>
+<summary>📊 Github Stats.</summary>
+<br>
+This is how you dropdown.
+</details>
 
 ![](https://komarev.com/ghpvc/?username=fredysomy&color=010040&style=flat-square)
 ![](https://img.shields.io/github/followers/fredysomy?style=flat-square)
