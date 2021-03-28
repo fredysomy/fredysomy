@@ -38,6 +38,7 @@ This is how you dropdown.
 <details>
 <summary>📊 Github Stats.</summary>
 <br>
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=fredysomy&margin-w=15&column=4&row=3)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fredysomy&layout=compact&langs_count=8)](https://github.com/fredysomy)
