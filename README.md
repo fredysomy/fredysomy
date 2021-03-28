@@ -38,7 +38,11 @@ This is how you dropdown.
 <details>
 <summary>📊 Github Stats.</summary>
 <br>
-This is how you dropdown.
+[![trophy](https://github-profile-trophy.vercel.app/?username=fredysomy&margin-w=15&column=4&row=3)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fredysomy&layout=compact&langs_count=8)](https://github.com/fredysomy)
+![Fredy's github stats](https://github-readme-stats.vercel.app/api?username=fredysomy&show_icons=true&hide=["issues"])
+
 </details>
 
 ![](https://komarev.com/ghpvc/?username=fredysomy&color=010040&style=flat-square)
