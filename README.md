@@ -32,7 +32,7 @@
 <details>
 <summary>📑 Resume</summary>
 <br>
-This is how you dropdown.
+![Metrics](https://metrics.lecoq.io/fredysomy?template=classic&languages=1&projects=1&achievements=1&notable=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&projects.limit=4&projects.descriptions=false&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&notable.repositories=false&config.timezone=Asia%2FCalcutta)
 </details>
 
 <details>
