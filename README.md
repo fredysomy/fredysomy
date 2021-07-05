@@ -23,6 +23,11 @@
   * CLI's
   * Pypi Packages.
 
+## Support my OSS works.
+
+<a href="https://www.buymeacoffee.com/fredysomy"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee.&emoji=&slug=fredysomy&button_colour=FFDD00&font_colour=000000&font_family=Poppins&outline_colour=000000&coffee_colour=ffffff"></a>
+
+
 * 📄 I write Blogs [here](https://blog.fredy.rocks/)
 
 * 👩‍💻 All my Projects [here](https://projects.fredy.rocks/)
