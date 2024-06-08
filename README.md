@@ -1,41 +1,37 @@
-# Hi there 🙋🏻‍♂️
-## Myself Fredy Somy.
-
+<img src="https://github.com/fredysomy/fredysomy/blob/master/Hello,%20my%20name%20is%20Fredy.%20Nice%20to%20meet%20you.%20(1).png?raw=true">
 
 [![GitHub followers](https://img.shields.io/github/followers/fredysomy?style=social)]()
 ![Twitter Follow](https://img.shields.io/twitter/follow/FredySomy?style=social)
 
+Hi there! I'm Fredy Somy, a passionate Full Stack Developer and Open Source enthusiast. I specialize in developing CLI tools, desktop applications, mobile apps, and web solutions. My skill set includes languages like C, Python, JavaScript, HTML/CSS, and Dart, and I'm proficient in frameworks like React, Express.js, Flask, Flutter, Vue.js, and Electron.js. Currently, I'm pursuing my B.Tech in Computer Science at Saintgits College of Engineering. Let's connect and create something amazing together!
 
-<a href="https://dev.to/fredysomy"><img height="32px" width="32px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgajA05XF6eHfhMRKT9EunERUm82WuKMe8MQ&usqp=CAU"></a>
-<a href="https://linkedin.com/in/fredysomy"><img height="32px" width="32px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLmPdKRkCtqXB94svbTykR1XudgqXLhlolMQ&usqp=CAU"></a>
-<a href="https://twitter.com/FredySomy"><img height="32px" width="32px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoaGWjOH7kQ2Vpv34G4VtDKSWVwkuqiPxV6Q&usqp=CAU"></a>
-<a href="https://fredysomy.hashnode.dev"><img height="32px" width="32px" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1592752137870/scHk9tTaA.png?auto=compressUQ1nKYMaA=w384-h384"></a>
+<a href="https://www.instagram.com/fredysomy/">
+<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
+</a>
+
+<a href="https://www.twitter.com/fredysomy/">
+<img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white">
+</a>
+
+<a href="https://www.linkedin.com/in/fredysomy/">
+<img src="https://img.shields.io/badge/Linkedin-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white">
+</a>
 
 
-* I am a Full stack developer , Uses Python and Javascript.<br>
 
-* Javascript is ❤️.<br>
 
-* Know Flask,Django,Node,Express,React,Electron.<br>
-* Love to make :
-  * Web Apps.
-  * Desktop Apps.
-  * CLI's
-  * Pypi Packages.
 
 ## Support my OSS works.
 
 <a href="https://www.buymeacoffee.com/fredysomy"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee.&emoji=&slug=fredysomy&button_colour=FFDD00&font_colour=000000&font_family=Poppins&outline_colour=000000&coffee_colour=ffffff"></a>
 
 
-* 📄 I write Blogs [here](https://blog.fredy.rocks/)
+* 👩‍💻 All my Projects [here](https://fredys.tech/#head/)
 
-* 👩‍💻 All my Projects [here](https://projects.fredy.rocks/)
-
-* 🌐 My Portfolio [Here](https://fredy.rocks/)
+* 🌐 My Portfolio [Here](https://fredys.tech/)
 
 <details>
-<summary>📑 Resume</summary>
+<summary>📑 Github Resume </summary>
 <br>
 
  ![Metrics](https://metrics.lecoq.io/fredysomy?template=classic&isocalendar=1&languages=1&introduction=1&stars=1&people=1&followup=1&lines=1&projects=1&activity=1&achievements=1&notable=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&introduction.title=true&stars.limit=4&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&followup.sections=repositories&projects.limit=4&projects.descriptions=false&activity.limit=5&activity.load=300&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&notable.repositories=false&config.timezone=Asia%2FCalcutta)
